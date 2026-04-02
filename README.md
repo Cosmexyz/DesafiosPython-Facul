@@ -7,7 +7,8 @@ Construir uma base sólida em lógica de programação e fundamentos da linguage
 
 ## Todas as questões
 
-- Simulador de catraca(máquina de estados)
+- Simulador de catraca
+- simulador de sistema de controle domestico
 
 ---
 
